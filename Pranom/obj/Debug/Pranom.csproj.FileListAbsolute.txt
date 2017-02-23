@@ -1,0 +1,223 @@
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\Pranom.exe.config
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\Pranom.exe
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\Pranom.pdb
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\MySql.Data.dll
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\MySql.Web.dll
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\WebMatrix.WebData.dll
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\System.Web.WebPages.dll
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\WebMatrix.Data.dll
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\System.Web.WebPages.Razor.dll
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\System.Web.Helpers.dll
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\System.Web.Razor.dll
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\WebMatrix.WebData.xml
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\System.Web.WebPages.xml
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\WebMatrix.Data.xml
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\System.Web.WebPages.Razor.xml
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\System.Web.Helpers.xml
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\System.Web.Razor.xml
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.Form1.resources
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.Properties.Resources.resources
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.csproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.exe
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.pdb
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.csproj.Pranom.exe.config
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\MySql.Data.Entity.EF5.dll
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\visual studio 2015\Projects\Pranom\Pranom\bin\Debug\MySql.Fabric.Plugin.dll
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.Form2.resources
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.Form3.resources
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.Form4.resources
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.Form5.resources
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.Form6.resources
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.Form7.resources
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\Pranom.exe.config
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\obj\Debug\Pranom.exe
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\obj\Debug\Pranom.pdb
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\Pranom.exe
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\Pranom.pdb
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\MySql.Data.dll
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\MySql.Web.dll
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\System.Web.WebPages.dll
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\WebMatrix.Data.dll
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\System.Web.Helpers.dll
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\System.Web.Razor.dll
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\System.Web.WebPages.xml
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\WebMatrix.Data.xml
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\System.Web.Helpers.xml
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\System.Web.Razor.xml
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\obj\Debug\Pranom.csprojResolveAssemblyReference.cache
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\obj\Debug\Pranom.csproj.Pranom.exe.config
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\obj\Debug\Pranom.Form1.resources
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\obj\Debug\Pranom.Form2.resources
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\obj\Debug\Pranom.Form3.resources
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\obj\Debug\Pranom.Form4.resources
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\obj\Debug\Pranom.Form5.resources
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\obj\Debug\Pranom.Form6.resources
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\obj\Debug\Pranom.Form7.resources
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\obj\Debug\Pranom.Properties.Resources.resources
+C:\Users\Hail Kakoil\Desktop\Pranom-V1.6\Pranom\obj\Debug\Pranom.csproj.GenerateResource.Cache
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\Pranom.exe.config
+C:\Users\Windows 8.1\Downloads\Pranom\obj\Debug\Pranom.exe
+C:\Users\Windows 8.1\Downloads\Pranom\obj\Debug\Pranom.pdb
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\Pranom.exe
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\Pranom.pdb
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\MySql.Data.dll
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\MySql.Web.dll
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\System.Web.WebPages.dll
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\WebMatrix.Data.dll
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\System.Web.Helpers.dll
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\System.Web.Razor.dll
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\System.Web.WebPages.xml
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\WebMatrix.Data.xml
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\System.Web.Helpers.xml
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\System.Web.Razor.xml
+C:\Users\Windows 8.1\Downloads\Pranom\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Windows 8.1\Downloads\Pranom\obj\Debug\Pranom.csprojResolveAssemblyReference.cache
+C:\Users\Windows 8.1\Downloads\Pranom\obj\Debug\Pranom.csproj.Pranom.exe.config
+C:\Users\Windows 8.1\Downloads\Pranom\obj\Debug\Pranom.Form1.resources
+C:\Users\Windows 8.1\Downloads\Pranom\obj\Debug\Pranom.Form2.resources
+C:\Users\Windows 8.1\Downloads\Pranom\obj\Debug\Pranom.Form3.resources
+C:\Users\Windows 8.1\Downloads\Pranom\obj\Debug\Pranom.Form4.resources
+C:\Users\Windows 8.1\Downloads\Pranom\obj\Debug\Pranom.Form5.resources
+C:\Users\Windows 8.1\Downloads\Pranom\obj\Debug\Pranom.Form6.resources
+C:\Users\Windows 8.1\Downloads\Pranom\obj\Debug\Pranom.Form7.resources
+C:\Users\Windows 8.1\Downloads\Pranom\obj\Debug\Pranom.Properties.Resources.resources
+C:\Users\Windows 8.1\Downloads\Pranom\obj\Debug\Pranom.csproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.Form8.resources
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.Form9.resources
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.Form10.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\Pranom.exe.config
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.exe
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.pdb
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\Pranom.exe
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\Pranom.pdb
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\MySql.Data.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\MySql.Web.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\System.Web.WebPages.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\WebMatrix.Data.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\System.Web.Helpers.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\System.Web.Razor.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\System.Web.WebPages.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\WebMatrix.Data.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\System.Web.Helpers.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\System.Web.Razor.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.csprojResolveAssemblyReference.cache
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.csproj.Pranom.exe.config
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.add_day_off.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.Form1.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.Form10.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.Form2.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.Form3.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.Form4.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.Form5.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.Form6.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.Form7.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.Form8.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.Form9.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.Properties.Resources.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-V2.0\Pranom\obj\Debug\Pranom.csproj.GenerateResource.Cache
+C:\Users\Windows 8.1\Desktop\Pranom\bin\Debug\Pranom.exe.config
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.exe
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.pdb
+C:\Users\Windows 8.1\Desktop\Pranom\bin\Debug\Pranom.exe
+C:\Users\Windows 8.1\Desktop\Pranom\bin\Debug\Pranom.pdb
+C:\Users\Windows 8.1\Desktop\Pranom\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Windows 8.1\Desktop\Pranom\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Windows 8.1\Desktop\Pranom\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.csprojResolveAssemblyReference.cache
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.csproj.Pranom.exe.config
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.add_day_off.resources
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.Form1.resources
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.Form10.resources
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.Form11.resources
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.Form2.resources
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.Form3.resources
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.Form4.resources
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.Form5.resources
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.Form6.resources
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.Form7.resources
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.Form8.resources
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.Form9.resources
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.Properties.Resources.resources
+C:\Users\Windows 8.1\Desktop\Pranom\obj\Debug\Pranom.csproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.add_day_off.resources
+D:\visual studio 2015\Projects\Pranom\Pranom\obj\Debug\Pranom.Form11.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\Pranom.exe.config
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.exe
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.pdb
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\Pranom.exe
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\Pranom.pdb
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\MySql.Data.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\MySql.Web.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\System.Web.WebPages.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\WebMatrix.Data.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\System.Web.Helpers.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\System.Web.Razor.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\System.Web.WebPages.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\WebMatrix.Data.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\System.Web.Helpers.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\System.Web.Razor.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.csprojResolveAssemblyReference.cache
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.csproj.Pranom.exe.config
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.add_day_off.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.Form1.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.Form10.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.Form11.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.Form2.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.Form3.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.Form4.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.Form5.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.Form6.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.Form7.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.Form8.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.Form9.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.Properties.Resources.resources
+C:\Users\Hail Kakoil\Desktop\New folder\Pranom-Verล่าสุด\Pranom\obj\Debug\Pranom.csproj.GenerateResource.Cache
